@@ -3,7 +3,7 @@ using namespace std;
 
 struct Mahasiswa
 {
-	string NIM;
+	string NIM; 
 	string Nama;
 	string Alamat;
 	int umur;
