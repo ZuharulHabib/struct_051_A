@@ -7,7 +7,7 @@ struct DetailAlamat {
 };
 
 struct Mahasiswa
-{
+{ 
 	char NIM[12];
 	char Nama[20];
 	DetailAlamat Alamat;
